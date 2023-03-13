@@ -1,4 +1,4 @@
-package bitTube;
+package it.bitTube;
 
 public class Main {
 
